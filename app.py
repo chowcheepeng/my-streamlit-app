@@ -34,7 +34,7 @@ st.write("This is my first Streamlit app.")
 # You can set the page title and layout here
 st.set_page_config(page_title="HDB Resale Dashboard", layout="wide")
 
-st.title("Singapore HDB Resale Dashboard")
+st.title("Singapore HDB Resale Dashboard 2.0")
 st.caption("Code-along: building a usable dashboard from real resale transactions.")
 
 st.header("Dashboard Overview")
